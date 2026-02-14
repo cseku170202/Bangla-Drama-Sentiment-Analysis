@@ -1,0 +1,7 @@
+#Please Cite Our Paper
+
+Md Shymon Islam, Md Shahariaz Anwar, Fatema Tuj Johra Lima, and Humiratul Bushra. "HybridStack-BD: A Multilevel Stacking Ensemble Method with Hybrid Features for Bangla Drama Sentiment Analysis." In 2025 IEEE 7th International Conference on Sustainable Technologies For Industry 5.0 (STI), pp. 1-6. IEEE, 2025.
+
+#Abstract:
+
+Sentiment analysis for low-resource languages like Bangla presents a significant challenge, primarily due to the scarcity of specialized datasets and the linguistic nuances of colloquial text. To address this, this study proposes a novel three-layer stacking ensemble underpinned by a synergistic hybrid feature architecture. This core innovation fuses deep contextual embeddings from advanced neural models, including M-BERT and Bi-LSTM, with classical statistical term-importance scores from TF-IDF, creating a uniquely rich feature representation. The effectiveness of our proposed model is verified on DramaSent-BD, a new purpose-built collection of 45,721 annotated user comments from the Bangla drama forum, which we also present as a contribution to the research community. The proposed architecture achieves a state-of-the-art accuracy of 97.40%, establishing a new performance benchmark by significantly outperforming both standalone models and a non-hybrid stacking baseline. This work thus presents a dual contribution: a highly effective and interpretable model for Bangla sentiment analysis and a valuable public dataset to facilitate future research.
