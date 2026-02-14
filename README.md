@@ -1,6 +1,6 @@
 #Please Cite Our Paper
 
-Md Shymon Islam, Md Shahariaz Anwar, Fatema Tuj Johra Lima, and Humiratul Bushra. "HybridStack-BD: A Multilevel Stacking Ensemble Method with Hybrid Features for Bangla Drama Sentiment Analysis." In 2025 IEEE 7th International Conference on Sustainable Technologies For Industry 5.0 (STI), pp. 1-6. IEEE, 2025.
+Md. Shymon Islam, Md Shahariaz Anwar, Fatema Tuj Johra Lima, and Humiratul Bushra. "HybridStack-BD: A Multilevel Stacking Ensemble Method with Hybrid Features for Bangla Drama Sentiment Analysis." In 2025 IEEE 7th International Conference on Sustainable Technologies For Industry 5.0 (STI), pp. 1-6. IEEE, 2025.
 
 #Abstract:
 
